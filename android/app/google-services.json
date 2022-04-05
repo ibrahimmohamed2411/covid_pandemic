@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "406403672139",
+    "project_id": "covid-19-pandemic-beaaa",
+    "storage_bucket": "covid-19-pandemic-beaaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406403672139:android:858f345db287417661c5ce",
+        "android_client_info": {
+          "package_name": "com.example.covid_pandemic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406403672139-7rjl1dn3tpqnrh2nkc4e8poel7jj8ejs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.covid_pandemic",
+            "certificate_hash": "3f224c628b3ab79729a68285193ad4d250f3d493"
+          }
+        },
+        {
+          "client_id": "406403672139-31jc43p022r55of4na7vjbqd6na6u7do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjfo9bopF0VRFrZMnmr6BTkMMYZfhaVV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406403672139-31jc43p022r55of4na7vjbqd6na6u7do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
